@@ -8,3 +8,4 @@ fix confict
 edit in github
 dev brach content
 a normal merge
+this will be ignored
