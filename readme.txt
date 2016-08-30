@@ -7,8 +7,10 @@ create a new branch featural
 fix confict
 this is a pull test
 edit in github
+<<<<<<< HEAD
 dev brach content
 a normal merge
 this will be ignored
 test pull  ingore
 pull test
+cherry-pick test
