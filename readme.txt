@@ -10,4 +10,5 @@ edit in github
 dev brach content
 a normal merge
 this will be ignored
-test ingore
+test pull  ingore
+pull test
