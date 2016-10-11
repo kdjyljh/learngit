@@ -14,3 +14,4 @@ this will be ignored
 test pull  ingore
 pull test
 cherry-pick test
+checkout commit test
