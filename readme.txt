@@ -15,5 +15,3 @@ test pull  ingore
 pull test
 cherry-pick test
 checkout commit test
-something add
-new things add
