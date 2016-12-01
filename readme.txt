@@ -1,3 +1,4 @@
+one commite dou't push
 another commite
 a commit
 git is a perfect free sofware
