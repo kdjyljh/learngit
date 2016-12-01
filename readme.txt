@@ -1,3 +1,4 @@
+push only one commit
 one commite dou't push
 another commite
 a commit
